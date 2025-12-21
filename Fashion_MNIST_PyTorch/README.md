@@ -18,5 +18,3 @@ This project uses **PyTorch** to train a **neural network** for image classifica
 - Input: 28 × 28 images (flattened)
 - Hidden Layers: 512 → 512 (ReLU)
 - Output: 10 classes
-
----
