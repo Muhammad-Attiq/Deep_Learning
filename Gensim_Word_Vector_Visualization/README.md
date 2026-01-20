@@ -1,29 +1,21 @@
-Core Operations
+# Core Operations
 
-1) Loading Word Vectors
-
+## Loading Word Vectors  
 Loads a pre-trained GloVe model with 100-dimensional word embeddings.
 
-2) Vector Extraction
-
+## Vector Extraction  
 Converts words into numerical vectors for machine processing.
 
-3) Similarity Analysis
+## Similarity Analysis  
+Finds semantically similar words  
+*(e.g., "banana" → "fruit")*
 
-Finds semantically similar words
-(e.g., "banana" → "fruit")
+## Vector Arithmetic  
+Solves analogies using vector math  
+*(King − Man + Woman ≈ Queen)*
 
-4) Vector Arithmetic
-
-Solves analogies using vector math
-(King − Man + Woman ≈ Queen)
-
-5) Pattern Recognition
-
+## Pattern Recognition  
 Recognizes relationships like:
-
-Capital cities
-
-Cultural associations
-
-Grammatical tenses
+- Capital cities  
+- Cultural associations  
+- Grammatical tenses  
