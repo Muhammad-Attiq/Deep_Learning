@@ -1,21 +1,25 @@
 Core Operations
-
 Loading Word Vectors
-Downloads a pre-trained GloVe model that maps words into a 100-dimensional vector space.
+
+Loads a pre-trained GloVe model with 100-dimensional word embeddings.
 
 Vector Extraction
-Converts human-readable words into numerical vectors that machines can understand and process.
 
-#Similarity Analysis
-Identifies words with the closest semantic distance to a target word
-(e.g., "banana" → similar to "fruit").
+Converts words into numerical vectors for machine processing.
+
+Similarity Analysis
+
+Finds semantically similar words
+(e.g., "banana" → "fruit")
 
 Vector Arithmetic
-Solves linguistic analogies using vector math
-(e.g., King − Man + Woman ≈ Queen).
+
+Solves analogies using vector math
+(King − Man + Woman ≈ Queen)
 
 Pattern Recognition
-Evaluates the model’s understanding of semantic and syntactic relationships such as:
+
+Recognizes relationships like:
 
 Capital cities
 
