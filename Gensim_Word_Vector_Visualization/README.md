@@ -6,7 +6,7 @@ Downloads a pre-trained GloVe model that maps words into a 100-dimensional vecto
 Vector Extraction
 Converts human-readable words into numerical vectors that machines can understand and process.
 
-Similarity Analysis
+#Similarity Analysis
 Identifies words with the closest semantic distance to a target word
 (e.g., "banana" → similar to "fruit").
 
