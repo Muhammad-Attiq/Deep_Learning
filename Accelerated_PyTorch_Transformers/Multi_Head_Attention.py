@@ -1,3 +1,6 @@
+# High-level flow
+# Project inputs → split into heads → compute attention → merge heads → project output 
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
